@@ -1,0 +1,28 @@
+_repo: Der-G-wissenswurm-Bauernkomodie-in-drei-Akten_2189
+creator:
+  author:
+    agent_name: Anzengruber, Ludwig
+    birthdate: 1839
+    deathdate: 1889
+    gutenberg_agent_id: '847'
+    url: http://www.gutenberg.org/2009/agents/847
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ludwig_Anzengruber
+    - http://de.wikipedia.org/wiki/Ludwig_Anzengruber
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2189'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Germany -- Drama'
+- !lcsh 'Comedies'
+- !lcc 'PT'
+- !lcsh 'German drama -- 19th century'
+title: 'Der G''wissenswurm: Bauernkomödie in drei Akten'
+url: http://www.gutenberg.org/ebooks/2189
